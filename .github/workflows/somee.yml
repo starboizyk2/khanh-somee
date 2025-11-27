@@ -20,7 +20,7 @@ jobs:
         with:
           server: thekhanh1102.somee.com
           username: thekhanh11
-          password: 12345678@
+          password: Titidz@1102
           local-dir: ./
           server-dir: /www.thekhanh1102.somee.com/
           dangerous-clean-slate: false
