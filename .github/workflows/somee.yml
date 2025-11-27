@@ -19,7 +19,7 @@ jobs:
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: thekhanh1102.somee.com
-          username: thekhanh11
+          username: thekhanh1102
           password: Titidz@1102
           local-dir: ./
           server-dir: /www.thekhanh1102.somee.com/
