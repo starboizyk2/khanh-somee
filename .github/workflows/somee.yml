@@ -18,9 +18,9 @@ jobs:
       - name: Deploy to Somee via FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
-          server: {{ secrets.FTP_SERVER }}
-          username: {{
-          password: 123456q@
+          server: thekhanh1102.somee.com
+          username: thekhanh11
+          password: 12345678@
           local-dir: ./
-          server-dir: /www.tuanvahoahh.somee.com/
+          server-dir: /www.thekhanh1102.somee.com/
           dangerous-clean-slate: false
